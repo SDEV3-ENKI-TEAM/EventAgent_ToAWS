@@ -1,3 +1,5 @@
 .env
+~~~
 OTEL_EXPORTER_OTLP_ENDPOINT=
 OTEL_RESOURCE_ATTRIBUTES=service.name=
+~~~
